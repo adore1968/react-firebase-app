@@ -1,8 +1,7 @@
-# React + Vite
+<h1 align="center">React & Firebase Login con API Context (Firebase Authentication) y Tailwindcss</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="https://img.shields.io/badge/STATUS-FINALIZADO-green" display="inline" >
 
-Currently, two official plugins are available:
+En este proyecto aprendí a crear una aplicacion web con React y Firebase que permite Registrar y hacer Login de usuarios. En este ejemplo usare Firebase Authentication para poder registar usuarios con email, contraseña y usando oauth Google, la app esta completamente estilizada con TailwindCSS y manejo las diferentes rutas de la pagina con react-router-dom.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Opera Instantánea_2024-07-22_191303_adore1968 github io](https://github.com/user-attachments/assets/8b3208f8-5292-45e1-9bfb-0680377a9bf7)
